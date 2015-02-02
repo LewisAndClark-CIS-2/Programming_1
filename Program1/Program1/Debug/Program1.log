@@ -1,0 +1,15 @@
+﻿Build started 2/2/2015 8:08:52 AM.
+Project "C:\Users\IEUser\Dropbox\tech\Programming_1\Program1\Program1\Program1.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Program1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Program1.cpp
+  Program1.cpp
+c:\users\ieuser\dropbox\tech\programming_1\program1\program1\program1.cpp(41): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IEUser\Dropbox\tech\Programming_1\Program1\Debug\Program1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IEUser\Dropbox\tech\Programming_1\Program1\Debug\Program1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IEUser\Dropbox\tech\Programming_1\Program1\Debug\Program1.lib" /MACHINE:X86 Debug\Program1.obj
+  Debug\stdafx.obj
+  Program1.vcxproj -> C:\Users\IEUser\Dropbox\tech\Programming_1\Program1\Debug\Program1.exe
+Done Building Project "C:\Users\IEUser\Dropbox\tech\Programming_1\Program1\Program1\Program1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.47
